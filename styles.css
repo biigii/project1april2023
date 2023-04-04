@@ -1,0 +1,19 @@
+h1 {
+  color: red;
+  background-color: gold;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+p {
+  color: lightcoral;
+  background-color: purple;
+  text-transform: uppercase;
+}
+
+a {
+  color: orange;
+  background-color: darkblue;
+  text-decoration: none;
+  text-transform: capitalize;
+}
